@@ -1,0 +1,2 @@
+C:\Users\komp\Downloads\RG V9\V9\x64\Debug\glew32.dll
+C:\Users\komp\Documents\GitHub\grafika-3d\RG V9\V9\x64\Debug\glew32.dll
